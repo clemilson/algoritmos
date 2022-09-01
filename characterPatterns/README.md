@@ -13,7 +13,7 @@ Output
 For each of the test cases output the requested pattern (please have a look at the example). Use one line break in between successive patterns.
 
 #### Example
-Input:
+```Input:
 3
 3 1
 4 4
@@ -31,5 +31,5 @@ Output:
 
 *.*.*
 .*.*.
-
+```
 https://br.spoj.com/problems/CPTTRN1/
