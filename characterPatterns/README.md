@@ -19,7 +19,7 @@ For each of the test cases output the requested pattern (please have a look at t
 4 4
 2 5
 
-Output:
+**Output:**
 *
 .
 *
