@@ -1,6 +1,6 @@
 ### Forma de execução
-1. Executar yarn 
-2. Executar yarn start
+1. Executar **yarn**
+2. Executar **yarn start**
 
 #### CPTTRN1 - Character Patterns (Act 1)
 
